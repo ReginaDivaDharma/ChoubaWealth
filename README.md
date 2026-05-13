@@ -1,4 +1,4 @@
-# ChoubaWealth 📈
+# ChoubaWealth 
 
 **ChoubaWealth** my partner is bad at money management so i made this to simplify tracking his stocks and savings, thx
 
@@ -17,7 +17,7 @@
 *   **Library:** Discord.py / Discord.js
 *   **APIs:** Market Data (e.g., Yahoo Finance) & Exchange Rate APIs
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
    ```bash
