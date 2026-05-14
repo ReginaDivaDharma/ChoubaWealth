@@ -6,15 +6,11 @@ A Discord bot for tracking stocks and savings. Basically monitors international 
 
 ## Features
 
-🧸ྀི Track international stocks with live prices from Yahoo Finance
-
-🧸ྀི Track USD cash (converted from IDR)
-
-🧸ྀི Track Indonesian savings & reksadana (IDR only) but this is still manual insert, not API based yet
-
-🧸ྀི Auto-converts USD → IDR using live exchange rates
-
-🧸ྀི One command monthly summary (`!summary`)
+🧸ྀི Track international stocks with live prices from Yahoo Finance  
+🧸ྀི Track USD cash (converted from IDR)  
+🧸ྀི Track Indonesian savings & reksadana (IDR only) but this is still manual insert, not API based yet  
+🧸ྀི Auto-converts USD → IDR using live exchange rates  
+🧸ྀི One command monthly summary (`!summary`)  
 
 ## Tech Stack
 
