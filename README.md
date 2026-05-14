@@ -47,9 +47,7 @@ python bot.py
 ```
 
 ### IMPORTANT NOTE
-please do note this bot is still running locally
-
-𓆝 𓆟 𓆞 𓆝 𓆟
+please do note this bot is still running locally so keep your terminal running to use the bot
 
 ## Commands
 
